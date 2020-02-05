@@ -89,12 +89,15 @@ tips.forEach((item, index) => {
 ## Experience
 
 I passed several courses on codacademy и htmlacademy. Here are links to my profiles:
+
 **Codecademy** https://www.codecademy.com/users/katrin-kot/achievements
+
 **Htmlacademy** https://htmlacademy.ru/profile/id808735/achievements
 
 ## Education
 
 _2006-2011_ Belarus State Economic University - Accounting, Analysis and Audit in Construction,
+
 _2018-2019_ online-course Sololearn
 
 ## English level
